@@ -49,6 +49,7 @@ nav span{
 }
 .main container{
   display: flex;
+  padding: 40px 20px 40px 20px;
 }
 
 .column.large {
